@@ -18,27 +18,27 @@
 	
 		<line fill="none" stroke="#CCCCCC" stroke-width="0.535" stroke-linejoin="round" stroke-miterlimit="10" x1="55.923" y1="241.812" x2="524.613" y2="241.812"/>
 	
-		<polyline id="Attendance_x5F_2017_00000151519518353290151980000018034835067618648766_" fill="none" stroke="#BE5500" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		<polyline id="Attendance_x5F_2017_00000077322298318459002300000015819987308882696065_" fill="none" stroke="#BE5500" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 		92.228,240.312 143.238,77.602 164.243,253.717 173.248,244.227 179.248,248.057 299.273,198.427 359.283,240.812 362.283,232.487 
 		380.288,235.817 383.288,236.067 428.298,228.902 431.298,246.057 	"/>
 	
-		<polyline id="Attendance_x5F_2018_00000045611445165430568030000015167449083996351403_" fill="none" stroke="#CD8D00" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		<polyline id="Attendance_x5F_2018_00000181054797898400788830000009918417794583692674_" fill="none" stroke="#CD8D00" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 		92.228,243.642 119.233,246.142 161.243,58.447 233.258,229.152 245.258,245.477 317.273,191.682 335.278,232.567 338.278,215.747 
 		356.283,231.237 359.283,214.082 422.293,219.577 425.298,189.182 	"/>
 	
-		<polyline id="Attendance_x5F_2019_00000013900652673438441320000006808603225918065586_" fill="none" stroke="#029D4A" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		<polyline id="Attendance_x5F_2019_00000111171489019643831490000018034655291985698969_" fill="none" stroke="#029D4A" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 		77.228,245.892 86.228,232.402 146.243,245.057 164.243,65.777 173.248,245.392 209.253,244.227 251.263,226.237 293.268,206.752 
 		332.278,211.917 335.278,218.327 374.288,243.562 377.288,201.922 437.298,172.447 440.298,186.437 	"/>
 	
-		<polyline id="Attendance_x5F_2021_00000059298459174251562960000000546855098702295450_" fill="none" stroke="#02659D" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		<polyline id="Attendance_x5F_2021_00000150801044317208237070000015044970388600519342_" fill="none" stroke="#02659D" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 		83.228,240.812 128.238,244.062 152.243,230.817 179.248,218.827 185.248,245.557 317.273,266.377 386.288,189.932 
 		389.288,198.677 401.293,115.822 410.293,215.412 467.303,232.487 491.308,185.602 503.313,102.582 	"/>
 	
-		<polyline id="Attendance_x5F_2022_00000057869583126991722170000011408504599687421872_" fill="none" stroke="#8F65AC" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		<polyline id="Attendance_x5F_2022_00000152979980565498507370000007947272973203375248_" fill="none" stroke="#8F65AC" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 		95.228,199.092 149.243,242.392 155.243,236.482 230.258,227.487 281.268,181.272 302.273,177.942 323.273,163.952 341.278,99.332 
 		344.278,54.202 365.283,151.462 431.298,58.447 470.303,225.742 479.308,193.932 491.308,147.132 497.308,134.472 	"/>
 	
-		<polyline id="Attendance_x5F_2023_00000156550296815966824530000014178682944329881484_" fill="none" stroke="#BE6495" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		<polyline id="Attendance_x5F_2023_00000081645735123434406360000002608435374767929755_" fill="none" stroke="#BE6495" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 		86.228,190.932 98.233,106.327 104.233,231.487 131.238,200.507 143.238,78.847 155.243,189.852 164.243,199.592 176.248,198.177 
 		257.263,175.027 	"/>
 	<rect x="34.393" y="40.852" fill="none" width="540" height="252"/>
@@ -59,18 +59,18 @@
 	
 		<line fill="none" stroke="#333333" stroke-width="0.535" stroke-linejoin="round" stroke-miterlimit="10" x1="515.313" y1="278.357" x2="515.313" y2="275.122"/>
 	
-		<rect id="Legend_x5F_2017_00000113323895227185208500000005921154019037414531_" x="539.509" y="48.828" fill="#BE5500" width="9.75" height="9.75"/>
+		<rect id="Legend_x5F_2017_00000115481081597148657680000003174938216717932698_" x="539.509" y="48.828" fill="#BE5500" width="9.75" height="9.75"/>
 	
-		<rect id="Legend_x5F_2018_00000131358133307738142020000009091475909428133276_" x="539.509" y="62.153" fill="#CD8D00" width="9.75" height="9.75"/>
+		<rect id="Legend_x5F_2018_00000097501135399921503760000006351975789703476899_" x="539.509" y="62.153" fill="#CD8D00" width="9.75" height="9.75"/>
 	
-		<rect id="Legend_x5F_2019_00000041989259270586410340000017259525844210023562_" x="539.509" y="75.478" fill="#029D4A" width="9.75" height="9.75"/>
+		<rect id="Legend_x5F_2019_00000121255622783072599820000005180120730595891114_" x="539.509" y="75.478" fill="#029D4A" width="9.75" height="9.75"/>
 	
-		<rect id="Legend_x5F_2021_00000156565037609467155390000013693872358439511435_" x="539.509" y="88.803" fill="#02659D" width="9.75" height="9.75"/>
+		<rect id="Legend_x5F_2021_00000067950225088716168680000013537873408168382886_" x="539.509" y="88.803" fill="#02659D" width="9.75" height="9.75"/>
 	
-		<rect id="Legend_x5F_2022_00000098199783439833769540000004819480608906144659_" x="539.509" y="102.128" fill="#8F65AC" width="9.75" height="9.75"/>
+		<rect id="Legend_x5F_2022_00000119095952707215581600000002814788988157487542_" x="539.509" y="102.128" fill="#8F65AC" width="9.75" height="9.75"/>
 	
-		<rect id="Legend_x5F_2023_00000125579430433647389160000002350093686385839494_" x="539.509" y="115.453" fill="#BE6495" width="9.75" height="9.75"/>
-	<g id="Education_x5F_2017_x5F_arrow_00000013191415132438691330000011834930107509177023_">
+		<rect id="Legend_x5F_2023_00000042006640737314318340000004347692351315401860_" x="539.509" y="115.453" fill="#BE6495" width="9.75" height="9.75"/>
+	<g id="Education_x5F_2017_x5F_arrow_00000130609372606269511510000003052123145734173083_">
 		<path fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" d="M120.05,62.763
 			c0.639,1.908,1.951,4.908,4.692,7.64c4.057,4.044,9.004,5.269,12.212,5.626"/>
 		<g>
@@ -78,7 +78,7 @@
 				C136.866,74.563,138.576,75.557,139.965,76.16z"/>
 		</g>
 	</g>
-	<g id="Education_x5F_other_00000088114701668426527840000007252613970044935615_">
+	<g id="Education_x5F_other_00000011710198931250606430000002409853762264395711_">
 		<path fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" d="M98.867,63.306
 			c0.754,2.734,3.303,10.549,10.93,15.892c10.283,7.205,22.146,4.557,27.46,2.768"/>
 		<g>
@@ -86,7 +86,7 @@
 				C136.585,80.682,138.552,80.889,140.066,80.871z"/>
 		</g>
 	</g>
-	<g id="Education_x5F_other_00000098216927390687022760000006087984676340792231_">
+	<g id="Education_x5F_other_00000156570657063147759170000005873283183860038551_">
 		<path fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" d="M142.092,61.891
 			c1.076,1.242,3.801,4.047,8.328,5.431c3.169,0.969,6.027,0.876,8.115,0.541"/>
 		<g>
@@ -94,7 +94,7 @@
 				C158.047,66.451,159.963,66.94,161.464,67.141z"/>
 		</g>
 	</g>
-	<g id="Education_x5F_other_00000106136224189948377070000002260330106250490552_">
+	<g id="Education_x5F_other_00000163039679307716321360000013234005253517791878_">
 		<path fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" d="M145.74,54.101
 			c1.199-0.467,3.75-1.277,6.999-0.875c1.505,0.186,2.8,0.588,3.86,1.038"/>
 		<g>
@@ -102,7 +102,7 @@
 				C157.099,52.973,158.232,54.594,159.238,55.726z"/>
 		</g>
 	</g>
-	<g id="Cornell_x5F_2018_00000075862010072434270810000006641144754002603685_">
+	<g id="Cornell_x5F_2018_00000088107619029864567820000012613105768309966468_">
 		<path fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" d="M355.551,157.565
 			c-5.903,0.32-18.471,1.801-31.472,10.093c-12.236,7.804-18.957,17.879-22.245,23.95"/>
 		<g>
@@ -110,7 +110,7 @@
 				C303.227,192.167,301.599,193.291,300.462,194.291z"/>
 		</g>
 	</g>
-	<g id="Yale_x5F_2019_00000016779509163353190320000001354332728198225542_">
+	<g id="Yale_x5F_2019_00000103233490439260913620000001746916301741436819_">
 		<path fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" d="M435.43,157.172
 			c-1.628,0.597-7.653,3.026-11.153,9.56c-3.349,6.252-2.371,12.501-1.321,16.03"/>
 		<g>
@@ -118,7 +118,7 @@
 				C424.276,182.11,424.026,184.072,424.011,185.586z"/>
 		</g>
 	</g>
-	<g id="Pride_x5F_2020_00000048473048804712828160000000840961049057305485_">
+	<g id="Pride_x5F_2020_00000011710589815660374270000008200353246850904721_">
 		<path fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" d="M428.363,132.714
 			c1.917,1.123,9.047,5.604,12.215,14.887c2.658,7.79,1.069,14.697-0.295,18.484"/>
 		<g>
@@ -126,7 +126,7 @@
 				C441.637,166.465,440.133,167.75,439.104,168.861z"/>
 		</g>
 	</g>
-	<g id="Penn_x5F_2022_00000069380671875645762090000008084124435194761663_">
+	<g id="Penn_x5F_2022_00000121959126650987618040000012905452738132323253_">
 		<path fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" d="M218.595,194.798
 			c11.768,1.505,36.661,6.324,61.129,24.934c18.128,13.788,28.692,29.569,34.397,39.929"/>
 		<g>
@@ -134,7 +134,7 @@
 				C315.275,258.841,315.327,260.818,315.543,262.317z"/>
 		</g>
 	</g>
-	<g id="Seton_x5F_2022_00000163777115065819372110000015521969584721470601_">
+	<g id="Seton_x5F_2022_00000140694742013311647250000008342559692239249285_">
 		<path fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" d="M445.268,71.282
 			c1.526,3.965,6.924,16.51,20.827,24.992c11.844,7.226,23.521,7.636,29.553,7.269"/>
 		<g>
@@ -142,7 +142,7 @@
 				C495.371,102.078,497.194,102.845,498.649,103.266z"/>
 		</g>
 	</g>
-	<g id="Sell_x5F_2022_00000005247838475063705760000001713280360822818192_">
+	<g id="Sell_x5F_2022_00000078739196073644553450000014092400683612694717_">
 		<path fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" d="M302.959,53.589
 			c6.039-2.014,15.504-4.187,26.78-2.706c2.54,0.334,4.9,0.817,7.065,1.383"/>
 		<g>
@@ -150,7 +150,7 @@
 				C337.006,50.893,338.47,52.224,339.701,53.105z"/>
 		</g>
 	</g>
-	<g id="Champs_x5F_2023_00000112602388578233919430000014943423066281487511_">
+	<g id="Champs_x5F_2023_00000111902274999287317610000013522168101055991993_">
 		<path fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" d="M478.506,53.668
 			c-2.739,2.369-9.855,7.882-20.668,9.454c-8.129,1.182-14.859-0.372-18.999-1.79"/>
 		<g>
@@ -158,7 +158,7 @@
 				C438.501,62.705,437.17,61.242,436.027,60.249z"/>
 		</g>
 	</g>
-	<g id="Duke_x5F_2023_00000147203167024518561100000004319660236549063342_">
+	<g id="Duke_x5F_2023_00000033344533679671474560000002338220357230045314_">
 		<path fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" d="M92.15,105.073
 			c-4.101-1.134-11.301-4.101-16.006-11.651c-5.293-8.494-3.896-17.123-3.508-19.164"/>
 		<g>
@@ -166,7 +166,7 @@
 				C91.68,106.397,93.597,105.909,95.098,105.71z"/>
 		</g>
 	</g>
-	<g id="NewEd_x5F_2023_00000176742524626568960570000016608505885349127321_">
+	<g id="NewEd_x5F_2023_00000152238549038828182420000010644143427048151219_">
 		<path fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" d="M165.328,58.953
 			c-1.038-0.227-8.386-1.704-14.829,3.271c-3.601,2.781-5.293,6.322-6.089,8.837"/>
 		<g>
@@ -174,31 +174,31 @@
 		</g>
 	</g>
 	
-		<circle id="Duke_x5F_2023_00000060738253061719866360000007320537875922958777_" fill="#BE6495" stroke="#BE6495" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="98.566" cy="106.514" r="0.975"/>
+		<circle id="Duke_x5F_2023_00000002377381075053200650000003563316735141818543_" fill="#BE6495" stroke="#BE6495" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="98.566" cy="106.514" r="0.975"/>
 	
-		<path id="Sell_x5F_2022_00000155148628130529380980000014556111287363007904_" fill="#8F65AC" stroke="#8F65AC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		<path id="Sell_x5F_2022_00000165953826266317145140000012533851226502796702_" fill="#8F65AC" stroke="#8F65AC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 		M344.181,53.419c0.538,0,0.975,0.437,0.975,0.975c0,0.538-0.437,0.975-0.975,0.975s-0.975-0.437-0.975-0.975
 		C343.206,53.855,343.642,53.419,344.181,53.419"/>
 	
-		<circle id="Champs_x5F_2023_00000085248356047041719850000003536144159361398693_" fill="#8F65AC" stroke="#8F65AC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="431.046" cy="58.639" r="0.975"/>
+		<circle id="Champs_x5F_2023_00000081626873526525980900000007730379829027019706_" fill="#8F65AC" stroke="#8F65AC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="431.046" cy="58.639" r="0.975"/>
 	
-		<circle id="Penn_x5F_2022_00000114045083155976373940000014671083480631846825_" fill="#02659D" stroke="#02659D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="317.226" cy="266.549" r="0.975"/>
+		<circle id="Penn_x5F_2022_00000047061113015835138610000004730653520287571851_" fill="#02659D" stroke="#02659D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="317.226" cy="266.549" r="0.975"/>
 	
-		<circle id="Seton_x5F_2022_00000077323732511554858260000012996642436877493668_" fill="#02659D" stroke="#02659D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="502.936" cy="102.769" r="0.975"/>
+		<circle id="Seton_x5F_2022_00000151531073685108773670000007697481981240626356_" fill="#02659D" stroke="#02659D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="502.936" cy="102.769" r="0.975"/>
 	
-		<circle id="Education_x5F_2019_00000083074967846069818700000015331343016294987710_" fill="#029D4A" stroke="#029D4A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="164.466" cy="65.969" r="0.975"/>
+		<circle id="Education_x5F_2019_00000149374277267482996030000018173613125682746766_" fill="#029D4A" stroke="#029D4A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="164.466" cy="65.969" r="0.975"/>
 	
-		<circle id="Pride_x5F_2020_00000147926955695358529720000010166556220766681216_" fill="#029D4A" stroke="#029D4A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="437.036" cy="172.629" r="0.975"/>
+		<circle id="Pride_x5F_2020_00000108991219289976580250000018346189278095779001_" fill="#029D4A" stroke="#029D4A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="437.036" cy="172.629" r="0.975"/>
 	
-		<circle id="Education_x5F_2018_00000083769876990842326630000000333884649108092071_" fill="#CD8D00" stroke="#CD8D00" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="161.471" cy="58.639" r="0.975"/>
+		<circle id="Education_x5F_2018_00000150061457170523121540000011320536646766662785_" fill="#CD8D00" stroke="#CD8D00" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="161.471" cy="58.639" r="0.975"/>
 	
-		<circle id="Yale_x5F_2019_00000140704619734865089890000001187124194051014328_" fill="#CD8D00" stroke="#CD8D00" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="425.056" cy="189.364" r="0.975"/>
+		<circle id="Yale_x5F_2019_00000067920125866563712060000017994524075729694848_" fill="#CD8D00" stroke="#CD8D00" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="425.056" cy="189.364" r="0.975"/>
 	
-		<circle id="Education_x5F_2017_00000057149780119786212430000013639931161124501155_" fill="#BE5500" stroke="#BE5500" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="143.496" cy="77.789" r="0.975"/>
+		<circle id="Education_x5F_2017_00000110470646664971354020000016342517942563319479_" fill="#BE5500" stroke="#BE5500" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="143.496" cy="77.789" r="0.975"/>
 	
-		<circle id="Cornell_x5F_2018_00000116212844320585112860000012420635796876926606_" fill="#BE5500" stroke="#BE5500" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="299.251" cy="198.604" r="0.975"/>
+		<circle id="Cornell_x5F_2018_00000026885286614149305190000006989852359586449568_" fill="#BE5500" stroke="#BE5500" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="299.251" cy="198.604" r="0.975"/>
 	
-		<circle id="Education_x5F_2023_00000103959610228648629360000000621774641580841642_" fill="#BE6495" stroke="#BE6495" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="143.496" cy="79.039" r="0.975"/>
+		<circle id="Education_x5F_2023_00000156566714759562323420000003383704401407415425_" fill="#BE6495" stroke="#BE6495" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="143.496" cy="79.039" r="0.975"/>
 </g>
 <style>
 #g-Attendance_plot-Artboard_14-Layer-img rect, #g-Attendance_plot-Artboard_14-Layer-img circle, #g-Attendance_plot-Artboard_14-Layer-img path, #g-Attendance_plot-Artboard_14-Layer-img line, #g-Attendance_plot-Artboard_14-Layer-img polyline, #g-Attendance_plot-Artboard_14-Layer-img polygon { vector-effect: non-scaling-stroke; }
